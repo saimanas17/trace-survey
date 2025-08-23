@@ -1,0 +1,33 @@
+[submodule "trace-helm-charts"]
+	path = trace-helm-charts
+	url = https://github.com/saimanas17/trace-helm-charts.git
+[submodule "tf-infra-gcp"]
+	path = tf-infra-gcp
+	url = https://github.com/saimanas17/tf-infra-gcp.git
+[submodule "trace-ami-jenkins"]
+	path = trace-ami-jenkins
+	url = https://github.com/saimanas17/trace-ami-jenkins.git
+[submodule "trace-infra-jenkins"]
+	path = trace-infra-jenkins
+	url = https://github.com/saimanas17/trace-infra-jenkins.git
+[submodule "trace-api-db"]
+	path = trace-api-db
+	url = https://github.com/saimanas17/trace-api-db.git
+[submodule "trace-rag-db"]
+	path = trace-rag-db
+	url = https://github.com/saimanas17/trace-rag-db.git
+[submodule "trace-rag-pubsub"]
+	path = trace-rag-pubsub
+	url = https://github.com/saimanas17/trace-rag-pubsub.git
+[submodule "trace-frontend_chatbot"]
+	path = trace-frontend_chatbot
+	url = https://github.com/saimanas17/trace-frontend_chatbot.git
+[submodule "trace-api-server"]
+	path = trace-api-server
+	url = https://github.com/saimanas17/trace-api-server.git
+[submodule "trace-rag-consumer"]
+	path = trace-rag-consumer
+	url = https://github.com/saimanas17/trace-rag-consumer.git
+[submodule "trace-rag-processor"]
+	path = trace-rag-processor
+	url = https://github.com/saimanas17/trace-rag-processor.git
