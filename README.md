@@ -99,6 +99,19 @@ More details on the backend architecture and deployment setup will be provided i
 
 ---
 
+## ⚠️ Manual Setup Required
+
+### DNS Configuration
+
+- [ ] **Buy a domain name** for the application
+- [ ] **Set up NS records** for the domain name
+- [ ] **Create hosted zone in Route53** for DNS management
+- [ ] **Create subdomain hosted zones in Route53** for development and production environments:
+  - [ ] `dev.domain.com` for development environment
+  - [ ] `prd.domain.com` for production environment
+
+---
+
 ## 📦 Repository Breakdown
 
 ### `trace-ami-jenkins/`
