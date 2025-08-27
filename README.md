@@ -86,24 +86,6 @@ Below is the overall architecture diagram and the diagrams explaining how the RA
 
 ---
 
-## Repository Structure
-
-Below is the list of the repositories included in this project:
-
-- [`trace-helm-charts/`](./trace-helm-charts/)
-- [`tf-infra-gcp/`](./tf-infra-gcp/)
-- [`trace-ami-jenkins/`](./trace-ami-jenkins/)
-- [`trace-infra-jenkins/`](./trace-infra-jenkins/)
-- [`trace-api-db/`](./trace-api-db/)
-- [`trace-rag-db/`](./trace-rag-db/)
-- [`trace-rag-pubsub/`](./trace-rag-pubsub/)
-- [`trace-api-server/`](./trace-api-server/)
-- [`trace-rag-consumer/`](./trace-rag-consumer/)
-- [`trace-rag-processor/`](./trace-rag-processor/)
-- [`trace-frontend_chatbot/`](./trace-frontend_chatbot/)
-
----
-
 ## 🚀 Deployment
 
 The entire application is deployed on **Google Kubernetes Engine (GKE)** with:
