@@ -78,7 +78,7 @@ Below is the overall architecture diagram and the diagrams explaining how the RA
 
 ### 🧠 How the RAG Model Works
 
-![RAG Model Flow](images/rag.png)
+![RAG Model Flow](images/RAG.png)
 
 ### 🔧 Admin Workflow (Data Upload + Processing)
 
